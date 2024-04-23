@@ -16,7 +16,7 @@ function App() {
       origin: { y: 0.6 },
     });
 
-    const rnd = Math.floor(Math.random() * 86);
+    const rnd = Math.floor(Math.random() * 85);
 
     setCongratulations(msg[rnd]);
   };
@@ -30,6 +30,8 @@ function App() {
         <main className="main">
           <p className="main__text1">
             Ця апка генерує привітання при кліці на кнопку нижче, спробуй!
+            <br />
+            (замість тисячі привітаннь)
           </p>
           <button
             id="emitter"
