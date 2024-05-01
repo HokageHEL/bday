@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/bday/static/css/main.f6093e73.css",
-    "main.js": "/bday/static/js/main.3e7902cc.js",
-    "static/js/453.ed3810f9.chunk.js": "/bday/static/js/453.ed3810f9.chunk.js",
-    "static/media/Remove-bg.ai_1713877197022.png": "/bday/static/media/Remove-bg.ai_1713877197022.15a622d0689316ec7429.png",
-    "index.html": "/bday/index.html",
-    "main.f6093e73.css.map": "/bday/static/css/main.f6093e73.css.map",
-    "main.3e7902cc.js.map": "/bday/static/js/main.3e7902cc.js.map",
-    "453.ed3810f9.chunk.js.map": "/bday/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/bday-yana/static/css/main.76d10644.css",
+    "main.js": "/bday-yana/static/js/main.943a012d.js",
+    "static/js/453.ed3810f9.chunk.js": "/bday-yana/static/js/453.ed3810f9.chunk.js",
+    "static/media/frog.png": "/bday-yana/static/media/frog.8f69becc30753fb145ce.png",
+    "static/media/qua.mp3": "/bday-yana/static/media/qua.50c37a1fe7399f05a19a.mp3",
+    "index.html": "/bday-yana/index.html",
+    "main.76d10644.css.map": "/bday-yana/static/css/main.76d10644.css.map",
+    "main.943a012d.js.map": "/bday-yana/static/js/main.943a012d.js.map",
+    "453.ed3810f9.chunk.js.map": "/bday-yana/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6093e73.css",
-    "static/js/main.3e7902cc.js"
+    "static/css/main.76d10644.css",
+    "static/js/main.943a012d.js"
   ]
 }
