@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Confetti from "canvas-confetti";
 import "./App.css";
 import { msg } from "./msg";
@@ -8,6 +8,10 @@ function App() {
   const [congratulations, setCongratulations] = useState(
     "тут буде текст привітання"
   );
+
+  useEffect(() => {
+    document.title = "Happy Birthday";
+  }, []);
 
   const handleClick = async () => {
     Confetti({
